@@ -16,3 +16,40 @@
 
 }
 
+/* info section */
+
+header{
+
+    background-color: rgb(255, 0, 0);    
+
+}
+
+.start{
+
+    background-color: aqua;    
+
+}
+
+.portofolio{
+
+    background-color: rgb(0, 255, 42);    
+
+}
+
+.about{
+
+    background-color: rgb(255, 196, 0);    
+
+}
+
+.contact_me{
+
+    background-color: rgb(112, 177, 255);    
+
+}
+
+footer{
+
+    background-color: rgb(255, 112, 222);    
+
+}
