@@ -34,7 +34,7 @@ nav{
 
 .start{
 
-    background-color: aqua;    
+    background-color: var(--bs-green);    
 
 }
 
@@ -50,15 +50,10 @@ hr{
 
 }
 
-.portofolio{
-
-    background-color: rgb(0, 255, 42);    
-
-}
 
 .about{
 
-    background-color: rgb(255, 196, 0);    
+    background-color: var(--bs-green);    
 
 }
 
