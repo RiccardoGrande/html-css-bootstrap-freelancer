@@ -12,17 +12,13 @@
 
 }
 
-.debug{
+/* .debug{
 
     border: 1px solid black;
 
 }
+ */
 
-.col-9{
-
-    /* height: 200px; */
-
-}
 
 /* utilities */
 
@@ -57,14 +53,22 @@ hr{
 
 }
 
-.contact_me{
+.send{
 
-    background-color: rgb(112, 177, 255);    
+    background-color: var(--bs-green);
 
 }
 
+
+
 footer{
 
-    background-color: rgb(255, 112, 222);    
+    background-color: var(--bs-lightdark);    
+
+}
+
+.color_span{
+
+    color: var(--bs-green);
 
 }
