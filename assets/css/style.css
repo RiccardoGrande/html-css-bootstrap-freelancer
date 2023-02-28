@@ -20,11 +20,11 @@
 
 .col-9{
 
-    height: 200px;
+    /* height: 200px; */
 
 }
 
-/* info section */
+/* utilities */
 
 nav{
 
@@ -35,6 +35,18 @@ nav{
 .start{
 
     background-color: aqua;    
+
+}
+
+.avatar{
+
+    height: 150px;
+
+}
+
+hr{
+
+    width: 70px;
 
 }
 
